@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/styles">
+        <file>dark-theme.qss</file>
+        <file>up-arrow.svg</file>
+        <file>down-arrow.svg</file>
+        <file>up-arrow-disabled.svg</file>
+        <file>down-arrow-disabled.svg</file>
+    </qresource>
+</RCC>
